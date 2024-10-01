@@ -2,7 +2,7 @@
 
 And I am Front end Developer 
 
-- 🌱 I’m currently learning Python 🐍
+- 🌱 I’m currently learning C++ & Java 
 - 💬 Ask me about React or Next
 - 📫 How to reach me: fghf09647@gmail.com
 <br>
