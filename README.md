@@ -1,4 +1,4 @@
- Hi my name is Abaigan 👋
+Hi There! My name is Abaizhan 👋
 
 And I am Front end Developer 
 
